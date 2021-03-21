@@ -1,7 +1,7 @@
 # BearJs Kit
 
 My personal ExpressJs/TypeScript starter kit.
-The starter will be improve in the Future.
+The starter will be improved in the Future.
 
 ### Specificity
 
