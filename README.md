@@ -18,3 +18,7 @@ tsc --init
 [DigitalOcean Tutorial](https://www.digitalocean.com/community/tutorials/setting-up-a-node-project-with-typescript "Click on it! Trust me :)")
 
 [Levelup Winston & Morgan Tutorial](https://levelup.gitconnected.com/better-logs-for-expressjs-using-winston-and-morgan-with-typescript-1c31c1ab9342)
+
+[Losikov Tutorial](https://github.com/losikov/api-example)
+
+[wanago Tutorial](https://wanago.io/2018/12/03/typescript-express-tutorial-routing-controllers-middleware/)
