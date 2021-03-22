@@ -1,6 +1,6 @@
 import cookieParser from "cookie-parser";
 import express from "express";
-import Logger from "./shared/Logger";
+import Logger from "./helpers/Logger";
 
 const app = express();
 app.use(express.json());
